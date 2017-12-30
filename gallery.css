@@ -1,0 +1,13 @@
+img{    
+    width: 100%;
+}
+body{
+    font-family: Arial, serif;
+}
+.btm{
+    margin-bottom: 1.5%;    
+}
+
+h1{
+    text-shadow: 1px,1px,1px,red;
+}
